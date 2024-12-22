@@ -1,18 +1,14 @@
-alert("hello world");
+alert("hello duniya");
 
-console.log("code is running...");
-console.log("code is also running...");
-console.log("code is running like a wow...");
+console.log("hey iam console");
 
-var a=prompt("enter your number");
-console.log("your number is "+a);
+var a=prompt("enter ur number");
+console.log("ypur number is "+a)
 
-var istrue=confirm("are you sure u want to blast ur computer");
+var istrue=confirm("are u sure u want to burn ur computer");
+
 if(istrue){
-    console.log("blasting ur computer");
+    console.log("computer is burning");
 }else{
-    console.log("not blasting ur computer");
+    console.log("computer is not burning");
 }
-
-document.title="code with harry";
-document.body.style.backgroundColor="lightblue";
